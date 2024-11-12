@@ -68,7 +68,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035](https://github.com/user-attachments/assets/dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9)
+![Screenshot 2024-11-12 220111](https://github.com/user-attachments/assets/210f7742-ebca-4e5f-8692-8b31767d75b5)
+
 
 
 
