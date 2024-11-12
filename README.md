@@ -48,7 +48,8 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![Screenshot (133)](https://github.com/user-attachments/assets/bd7584d4-508d-4766-bdae-a463180cac22)
+![Screenshot 2024-11-12 215805](https://github.com/user-attachments/assets/bce1eb39-e179-4834-85c4-77681386049e)
+
 
 
 
@@ -82,7 +83,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
+![Screenshot 2024-11-12 142614](https://github.com/user-attachments/assets/51bd4103-2c26-481d-ac7c-af972574c6e6)
+
 
  
 Analog simulation by SPECTRE.
